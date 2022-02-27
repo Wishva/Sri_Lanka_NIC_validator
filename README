@@ -1,0 +1,6 @@
+This is coded using PHP and you can use this in your projects.
+Add the NIC number as the $nic variable and if it is a valid one the code will throw true and if it is not will throw false
+This is a bit larger code just clone it and try to make it small or try to write a regular expression to validate NIC
+good luck!!
+
+--Wishva Weerasekara--
