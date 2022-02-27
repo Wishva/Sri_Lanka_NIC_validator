@@ -59,12 +59,12 @@ function checkNic($nic)
     }
 }
 
-$nic = "XXXXXXXXX";
+$nic = "XXXXXXXXX"; //enter the NIC number here
 if(checkNic($nic))
 {
-    echo "good";
+    echo "good"; //valid NIC
 }else{
-    echo "false";
+    echo "false"; //invalid NIC
 }
 
 
